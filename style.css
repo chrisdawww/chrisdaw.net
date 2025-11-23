@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    align: center;
+    font: italic small-caps bold 82px/2 cursive;
+}
