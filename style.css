@@ -1,12 +1,13 @@
 * {
     background-color: black;
     color: white;
-}
-
-h1 {
-    font: italic small-caps bold 150px;
+    font: italic small-caps bold;
     font-family: "Comic Sans MS", "Comic Sans";
     text-align: center;
+}
+
+h2 {
+    color: #FFD700;
 }
 
 .page {
@@ -16,7 +17,7 @@ h1 {
 }
 
 img {
-    width: 300px;
+    width: 800px;
     border-radius: 100px;
 }
 
