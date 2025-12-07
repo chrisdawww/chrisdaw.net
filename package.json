@@ -1,0 +1,23 @@
+{
+  "name": "chrisdaw.net",
+  "version": "1.0.0",
+  "description": "Github Pages version of chrisdaw.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdawww/chrisdaw.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdawww/chrisdaw.net/issues"
+  },
+  "homepage": "https://github.com/chrisdawww/chrisdaw.net#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
